@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #ff004f;
+    background-color: #9e0233;
     padding: 40px;
     text-align: center;
 }
@@ -30,8 +30,8 @@ header p {
 }
 
 .back-button-container button {
-    background-color: #ff004f;
-    color: white;
+    background-color: #9e0233;   
+     color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
